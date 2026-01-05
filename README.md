@@ -150,5 +150,3 @@ Presiona **ESC** para salir.
 
 
 ---
-* Ajustarlo a formato **tesis / reporte académico**
-* Agregar comandos para **Linux / macOS**
